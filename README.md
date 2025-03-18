@@ -8,4 +8,3 @@
 - realizado por: Ismael Guerra
 
 
-  Para ejecutar el sistema, debes poner:
